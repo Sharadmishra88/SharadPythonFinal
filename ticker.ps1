@@ -1,0 +1,1 @@
+﻿powershell.exe python C:\Projects\ticker\ticker.py
